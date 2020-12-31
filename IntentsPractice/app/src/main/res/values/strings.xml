@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsPractice</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="please_enter_your_phone_number">please enter your phone number</string>
+    <string name="please_enter_your_website">please enter your website</string>
+    <string name="please_enter_a_location">please enter a location</string>
+</resources>
