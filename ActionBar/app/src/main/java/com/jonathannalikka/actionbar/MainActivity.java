@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+    public  onOptionsItemSelected(@NonNull MenuItem item) {
         switch(item.getItemId()){
             case R.id.download:
                 Toast.makeText(this, "Download started", Toast.LENGTH_SHORT).show();
